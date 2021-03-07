@@ -1,0 +1,14 @@
+1. I have done Multilabel image classification for three labels: cake , flower and dress.
+I have prepared the dataset by downloading images from google. Wedding_Dataset is created and data is imported into it.
+There are three labels: cake,dress and flower.
+
+2. I have created dataset for text sentiment analysis. Fetches text based on financial domain from google and inserted into the dataset with
+negative,neutral and positive as 0,1 and 2. Created text_analysis_model with 81.8% precision.
+
+3. I have performed Video classification , created Video_classification_dataset. Dataset having 5 labels: cartwheel , golf, kick_ball, pullup, and ride_horse.
+
+
+
+
+
+
